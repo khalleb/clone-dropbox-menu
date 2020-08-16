@@ -4,21 +4,13 @@ UI Clone - Dropbox Homepage
 
 <p align="center">Responsive Dropbox Homepage UI clone for study purposes.</p>
 
-<p align="center">
-  <a href="https://github.com/Rocketseat/youtube-clone-dropbox-menu/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-dropbox-menu?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-dropbox-menu?color=%236633cc&logo=mit" alt="License">
-  </a>
-</p>
 
 <hr>
 
 ## Project
 
 <h1 align="center">
-    <img alt="Login-Page" title="demo page" src=".github/dropbox-clone.gif"/>
+    <img alt="Login-Page" title="demo page" src=".github/dropbox-clone.gif" width="95%"/>
 </h1>
 
 ## Techs
